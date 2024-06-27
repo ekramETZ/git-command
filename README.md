@@ -1,4 +1,4 @@
-# Basic-Git-Command
+<p align='center'>Basic-Git-Command</p>
 **Basic Git Command for Beginners**
 
 # Config

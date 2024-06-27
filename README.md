@@ -1,5 +1,6 @@
-<p align='center'>Basic-Git-Command</p>
-**Basic Git Command for Beginners**
+<b align='center'>Basic-Git-Command</b>
+
+# **Basic Git Command for Beginners**
 
 # Config
 ```sh
